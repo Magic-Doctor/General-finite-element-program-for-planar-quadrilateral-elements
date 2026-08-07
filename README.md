@@ -11,7 +11,8 @@ An effective approach is to acquire the structural geometry from images captured
 It is important to note that image processing is merely one method for obtaining nodal coordinate information. **In general, as long as nodal coordinates are available, they can be imported into the program for computation.** This program is particularly well-suited for rapid preliminary calculations of certain structures. It can also serve as a reference for the co-development of more advanced algorithms (for instance, combining simulated deformation fields of blade root grooves with measured deformation fields to perform a rapid inverse estimation of actual contact forces).
 
 ## 2. Additional Information
+If you find this project helpful, please give it a ⭐️—your recognition is our motivation for continuous maintenance.
 
-For a more detailed introduction to this project, please refer to the blog post:
+You can also follow my blog for more updates: [https://blog.csdn.net/wangbo8366534/article/details/162546905](https://blog.csdn.net/wangbo8366534/article/details/162546905?sharetype=blogdetail&sharerId=162546905&sharerefer=PC&sharesource=wangbo8366534&spm=1011.2480.3001.8118)
 
-[https://blog.csdn.net/wangbo8366534/article/details/162546905](https://blog.csdn.net/wangbo8366534/article/details/162546905?sharetype=blogdetail&sharerId=162546905&sharerefer=PC&sharesource=wangbo8366534&spm=1011.2480.3001.8118)
+
