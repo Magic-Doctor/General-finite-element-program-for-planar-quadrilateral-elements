@@ -10,9 +10,22 @@ An effective approach is to acquire the structural geometry from images captured
 
 It is important to note that image processing is merely one method for obtaining nodal coordinate information. **In general, as long as nodal coordinates are available, they can be imported into the program for computation.** This program is particularly well-suited for rapid preliminary calculations of certain structures. It can also serve as a reference for the co-development of more advanced algorithms (for instance, combining simulated deformation fields of blade root grooves with measured deformation fields to perform a rapid inverse estimation of actual contact forces).
 
-## 2. Additional Information
+## 2. Additional Information Case Analysis
+A practical image of a blade root groove was used for a case study, as shown in the figure below. All nodes on the bottom edge are fully constrained, and a uniformly distributed load of 20 N in the y‑direction is applied to all remaining boundary nodes. The `.mat` file for this case is provided in the program package.
+
+<img width="972" height="534" alt="695d57f3c3d5fd9202f7bda6db8980b6" src="https://github.com/user-attachments/assets/06cb873a-08a2-4cc7-947f-7ad76332363f" />
+
+The computation results are shown below:
+
+[untitled.bmp](https://github.com/user-attachments/files/30849418/untitled.bmp)
+
+The results appear satisfactory. This program provides a fast way to perform preliminary calculations for such cases.
+
+## 3. Additional Information
 If you find this project helpful, please give it a ⭐️—your recognition is our motivation for continuous maintenance.
 
 You can also follow my blog for more updates: [https://blog.csdn.net/wangbo8366534/article/details/162546905](https://blog.csdn.net/wangbo8366534/article/details/162546905?sharetype=blogdetail&sharerId=162546905&sharerefer=PC&sharesource=wangbo8366534&spm=1011.2480.3001.8118)
 
 
+
+​
