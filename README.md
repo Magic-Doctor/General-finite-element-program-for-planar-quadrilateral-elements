@@ -16,8 +16,7 @@ A practical image of a blade root groove was used for a case study, as shown in 
 <img width="972" height="534" alt="695d57f3c3d5fd9202f7bda6db8980b6" src="https://github.com/user-attachments/assets/06cb873a-08a2-4cc7-947f-7ad76332363f" />
 
 The computation results are shown below:
-
-[untitled.bmp](https://github.com/user-attachments/files/30849418/untitled.bmp)
+<img width="2424" height="569" alt="untitled" src="https://github.com/user-attachments/assets/c4d0db19-128a-4e50-8e65-d3910ba3b665" />
 
 The results appear satisfactory. This program provides a fast way to perform preliminary calculations for such cases.
 
