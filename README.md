@@ -13,7 +13,8 @@ It is important to note that image processing is merely one method for obtaining
 ## 2. Additional Information Case Analysis
 A practical image of a blade root groove was used for a case study, as shown in the figure below. All nodes on the bottom edge are fully constrained, and a uniformly distributed load of 20 N in the y‑direction is applied to all remaining boundary nodes. The `.mat` file for this case is provided in the program package.
 
-<img width="972" height="534" alt="695d57f3c3d5fd9202f7bda6db8980b6" src="https://github.com/user-attachments/assets/06cb873a-08a2-4cc7-947f-7ad76332363f" />
+<img width="970" height="512" alt="c74b6c0ed848e05bb4c8879b8a9f2407" src="https://github.com/user-attachments/assets/470fee04-78a2-4141-b559-abe6ced12ac5" />
+
 
 The computation results are shown below:
 <img width="2424" height="569" alt="untitled" src="https://github.com/user-attachments/assets/c4d0db19-128a-4e50-8e65-d3910ba3b665" />
